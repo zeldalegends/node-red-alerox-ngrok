@@ -1,5 +1,5 @@
 {
-    "name": "node-red-alerox-ngrok",
+    "name": "node-red-sammachin-ngrok",
     "version": "1.1.1",
     "description": "nodered node to wrap and control ngrok",
     "author": "Sam Machin",
